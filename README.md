@@ -1,5 +1,5 @@
 # SendMails
-A flexible python package to send mails with attachments from your server.
+A flexible python package to send html supported mails with attachments from your server.
 It supports mailx, mutt mail clients.
 Text attachments are split depending on the size limit (Should be lower than your Transfer protocol size limit).
 Non-textual attachments are compressed and attached.
